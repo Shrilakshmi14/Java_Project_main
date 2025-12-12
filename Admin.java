@@ -14,6 +14,5 @@ public class Admin extends User {
         System.out.println("Name: " + getName());
         System.out.println("Email: " + getEmail());
         System.out.println("UserID: " + getUserId());
-        System.out.println("---------------------------");
     }
 }
