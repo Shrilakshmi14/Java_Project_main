@@ -28,7 +28,6 @@ public class Student extends User implements ProgressTrackable {
         System.out.println("Email: " + getEmail());
         System.out.println("UserID: " + getUserId());
         System.out.println("Courses: " + enrolledCourse1 + ", " + enrolledCourse2);
-        System.out.println("----------------------------");
     }
 
     @Override
