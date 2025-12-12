@@ -28,6 +28,5 @@ public class Instructor extends User {
         System.out.println("Email: " + getEmail());
         System.out.println("UserID: " + getUserId());
         System.out.println("Created Courses: " + createdCourse1 + ", " + createdCourse2);
-        System.out.println("--------------------------------");
     }
 }
